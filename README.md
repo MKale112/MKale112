@@ -5,7 +5,7 @@
 ## I am a Software Developer from Croatia!
 
 ### :point_right: About Me :
-- 🔭  I’m working as a **_full-stack web developer_**
+- 🔭  I’m working as a **_Full Stack web developer_**
 
 - :full_moon:  My main superpower is **_JavaScript_**
 
