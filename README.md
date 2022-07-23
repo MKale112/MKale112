@@ -7,7 +7,7 @@
 1. 🔭 I’m working as a *_full-stack web developer_*
 2. :full_moon: My main superpower is *_JavaScript_*
 3. 🌱 I spend my free time reading books, bouldering and working out
-4. 📫 How to reach me: ![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white]({www.linkedin.com/in/matej-kalebić-7532b8201})
+4. 📫 How to reach me: ![https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](www.linkedin.com/in/matej-kalebić-7532b820})
 
 ***
 
