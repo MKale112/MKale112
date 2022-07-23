@@ -1,4 +1,4 @@
-[Profile Views](https://visitor-badge.glitch.me/badge?page_id=MKale112)
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=MKale112)
 
 ## Hi there 👋 My name is Matej Kalebić
 
