@@ -7,7 +7,7 @@
 ### :point_right: About Me :
 - 🔭  I’m working as a **_Full Stack web developer_**
 
-- :full_moon:  My main superpower is **_JavaScript_**
+- :full_moon:  My main superpower is **_TypeScript_**
 
 - 🌱  I like to spend my free time **_reading books, bouldering and working out_**
 
